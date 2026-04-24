@@ -110,7 +110,7 @@ Final NetCDF file contains:
 
 ## 👨‍💻 Author
 
-**Md. Zuhaib Kabir**
+**Md. Zuhaib Kabir** ,
 BSc in Oceanography
 
 ---

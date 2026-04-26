@@ -8,13 +8,13 @@ A complete end-to-end Python pipeline for downloading, filtering, processing, an
 
 This project automates the full workflow of Argo data handling:
 
-* 📥 Download global Argo index
-* 🌍 Filter data by **region & time**
-* 📦 Batch download NetCDF profile files
-* 🧹 Apply quality control (QC) filtering
-* 📊 Interpolate profiles to a uniform pressure grid
-* 🧬 Combine all profiles into a single dataset
-* 📈 Generate vertical profiles and mean ocean structure
+* Download global Argo index
+* Filter data by **region & time**
+* Batch download NetCDF profile files
+* Apply quality control (QC) filtering
+* Interpolate profiles to a uniform pressure grid
+* Combine all profiles into a single dataset
+* Generate vertical profiles and mean ocean structure
 
 ---
 
@@ -46,7 +46,7 @@ argo-data-download-process-python/
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 ### 1. Define Study Area
 
@@ -62,7 +62,7 @@ argo-data-download-process-python/
 
 ---
 
-## 📊 Output Data
+## Output Data
 
 Final NetCDF file contains:
 
@@ -80,7 +80,7 @@ Final NetCDF file contains:
 
 
 
-## 🧪 Applications
+## Applications
 
 * Oceanographic analysis
 * Climate variability studies
@@ -99,7 +99,7 @@ Final NetCDF file contains:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add density (sigma-theta) calculation
 * Monthly and seasonal climatology
@@ -108,7 +108,7 @@ Final NetCDF file contains:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Md. Zuhaib Kabir** ,
 BSc in Oceanography
@@ -121,7 +121,7 @@ This project is open-source and available for academic and research use.
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 
 Data provided by the global Argo program:
 https://argo.ucsd.edu
